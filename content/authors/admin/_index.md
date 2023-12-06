@@ -14,16 +14,17 @@ role: Assistant Professor (Lecturer) in Surgical Robotics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: King's College London
+    url: 'https://www.kcl.ac.uk/people/lukas-lindenroth'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft robotics
+  - Human-robot-interaction
+  - Image-guided interventions
+  
 
 education:
   courses:
