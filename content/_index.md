@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Interactive Medical Robotics Lab
       image:
-        filename: welcome.jpg
+        filename: imr_small.png
+        
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <div style="text-align: justify"> 
+        Welcome to the page of the lab for Interactive Medical Robotics at King's College London. We're located at St Thomas' Hospital, in the heart of London, United Kingdom. </div>
+
   
   - block: collection
     content:

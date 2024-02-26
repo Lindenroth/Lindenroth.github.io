@@ -38,6 +38,9 @@ education:
       institution: Koblenz University of Applied Sciences
       year: 2014
 
+  
+
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -52,6 +55,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=BoTd8MYAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: hb
+    link: https://www.linkedin.com/in/lukas-lindenroth-18770512a/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

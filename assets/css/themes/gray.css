@@ -1,0 +1,35 @@
+/* Define color variables */
+:root {
+    --primary-color: #008080; /* Teal color */
+    --light-background: #f0f0f0; /* Light gray for light theme background */
+    --light-text: #333333; /* Darker gray for light theme text */
+    --dark-background: #282c34; /* Dark gray for dark theme background */
+    --dark-text: #f0f0f0; /* Light gray for dark theme text */
+}
+
+/* Light theme styles */
+.light-theme {
+    background-color: var(--light-background);
+    color: var(--light-text);
+}
+
+.light-theme a {
+    color: var(--primary-color);
+}
+
+/* Dark theme styles */
+.dark-theme {
+    background-color: var(--dark-background);
+    color: var(--dark-text);
+}
+
+.dark-theme a {
+    color: var(--primary-color);
+}
+
+/* Common styles for elements in both themes */
+button, input, select, textarea {
+    border-color: var(--primary-color);
+}
+
+/* More specific styling can be added here */
